@@ -21,7 +21,7 @@
 
 ## 推荐论文
 
-(TBD)
+- [Deep Learning papers recommended by deeplearning.ai](https://gist.github.com/imWildCat/6ab7be9a0c35a1c31863b846d039eb49)
 
 
 
