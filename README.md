@@ -12,6 +12,7 @@
 ## 快速入门教程
 
 - [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets)
+- [深度学习·炼丹入门](https://zhuanlan.zhihu.com/p/23781756)，作者：李沐
 
 ## 论文、实例导读
 
