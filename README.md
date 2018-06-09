@@ -9,7 +9,9 @@
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) @ Coursera（比较老的课程，评价较高）
 - [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) @ Udacity
 
+## 快速入门教程
 
+- [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets)
 
 ## 论文、实例导读
 
