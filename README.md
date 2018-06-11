@@ -59,7 +59,9 @@
 
 (TBD)
 
+## Talks
 
+- [Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton](https://www.youtube.com/watch?v=-eyhCTvrEtE)
 
 ## 贡献资源
 
