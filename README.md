@@ -58,7 +58,7 @@
 
 ## 常用工具
 
-(TBD)
+- [How to Write a Thesis in LaTeX pt 1 - Basic Structure](https://www.sharelatex.com/blog/2013/08/02/thesis-series-pt1.html)
 
 ## Talks
 
