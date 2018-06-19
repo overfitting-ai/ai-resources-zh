@@ -6,6 +6,7 @@
 ## 课程
 
 - [deeplearning.ai](https://www.deeplearning.ai)（强烈推荐，[网易云课堂中文版](https://mooc.study.163.com/university/deeplearning_ai)）
+- [fast.ai](http://www.fast.ai)（优秀的免费课程，被哈佛商业评论报道）
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) @ Coursera（比较老的课程，评价较高）
 - [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) @ Udacity
 
