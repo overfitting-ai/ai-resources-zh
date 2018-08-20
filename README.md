@@ -16,6 +16,7 @@
 - [深度学习·炼丹入门](https://zhuanlan.zhihu.com/p/23781756)，作者：李沐
 - [[Google 机器学习系列教程] - Python 包管理工具哪家强？ (AIA Ep.11) by Yufeng Guo](https://www.bilibili.com/video/av24863161)
 - [PyTorch Tutorials](https://pytorch.org/tutorials/)（PyTorch 的入门教程，易读性比 TensorFlow 强很多）
+- [Seedbank](https://tools.google.com/seedbank/)
 
 ## 论文、实例导读
 
